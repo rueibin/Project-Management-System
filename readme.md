@@ -27,7 +27,7 @@
 
 ![avatar](https://github.com/rueibin/Project-Management-System/images/06.PNG)
 
-**Click User1 Task From Project Gannt, Show User1 Detail **
+**Click User1 Task From Project Gannt, Show User1 Detail**
 
 ![avatar](https://github.com/rueibin/Project-Management-System/images/07.PNG)
 
