@@ -6,7 +6,7 @@
 
 **Project List Page**
 
-![avatar](https://github.com/rueibin/Project-Management-System/images/01.PNG)
+![avatar](https://github.com/rueibin/Project-Management-System/images/project_list_page.PNG)
 
 **Create Project Page** 
 
